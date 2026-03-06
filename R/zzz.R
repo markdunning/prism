@@ -50,7 +50,7 @@ invisible()
 .onAttach <- function(libname, pkgname) {
 
 # Get package version
-version <- package_version("prism")
+version <- utils::packageVersion("prism")
 
 # Create startup message
 msg <- paste0(

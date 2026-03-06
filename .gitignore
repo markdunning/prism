@@ -21,3 +21,4 @@ docs/
 *.rds
 *.RDS
 inst/extdata/large_files/
+inst/doc

@@ -19,15 +19,18 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 Depends: R (>= 4.0.0)
 Imports:
+    methods,
     Biostrings,
     GenomicRanges,
+    GenomicFeatures,
     IRanges,
     GEOquery,
     biomaRt,
     AnnotationDbi,
     dplyr,
     tidyr,
-    stringr
+    stringr,
+    ggplot2
 Suggests:
     BSgenome.Hsapiens.UCSC.hg38,
     BSgenome.Mmusculus.UCSC.mm10,
