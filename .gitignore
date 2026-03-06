@@ -1,7 +1,7 @@
 # History files
 # R package specific.Rproj.user.Rhistory.RData.Ruserdata
 *.Rproj
-
+.Rproj.user/
 # Package builds
 *.tar.gz
 *.zip

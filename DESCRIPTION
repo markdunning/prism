@@ -1,5 +1,5 @@
 Package: prism
-Type: Pacakge
+Type: Package
 Title: Probe Re-Identification and Sequence Mapping
 Version: 0.1.0
 Authors@R: person("Mark", "Dunning", 
